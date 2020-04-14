@@ -7,4 +7,4 @@ end
     # rescue_princess_peach
     # puts status
     
-rescue_princess_peach('rescued')
+rescue_princess_peach("rescued")

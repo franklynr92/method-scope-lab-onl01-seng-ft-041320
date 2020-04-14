@@ -7,4 +7,3 @@ end
     # rescue_princess_peach
     # puts status
     
-filter_parameter_logging

@@ -1,5 +1,5 @@
 def rescue_princess_peach(status)
-     if status == "rescued"
+     if status == 'rescued'
       puts "Hooray! Mario has rescued Princess Peach."
     else
       false
@@ -9,4 +9,4 @@ def rescue_princess_peach(status)
     # rescue_princess_peach
     # puts status
     
-    rescue_princess_peach("rescued")
+rescue_princess_peach('rescued')
